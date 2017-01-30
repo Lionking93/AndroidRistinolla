@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ristinolla</string>
+    <string name="game_name">Ristinolla</string>
+    <string name="start_game">Aloita peli</string>
+    <string name="game_won">Voitit pelin!</string>
+    <string name="game_lost">Hävisit pelin!</string>
+    <string name="game_draw">Tasapeli</string>
+    <string name="new_game">Aloita uusi peli</string>
+    <string name="quit_game">Sulje peli</string>
+</resources>
